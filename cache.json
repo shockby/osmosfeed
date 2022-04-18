@@ -7,473 +7,222 @@
       "articles": []
     },
     {
-      "title": "CSS-Tricks",
-      "feedUrl": "https://css-tricks.com/feed/",
-      "siteUrl": "https://css-tricks.com",
+      "title": "Keepa Price Drop Notifier",
+      "feedUrl": "https://dyn.keepa.com/v2/user/rss/?feed=3tfqj6v4cptr7tm2ulcv3j6j954bol5g",
+      "siteUrl": "https://keepa.com/#!notification",
+      "articles": []
+    },
+    {
+      "title": "こまめブログ",
+      "feedUrl": "https://little-beans.net/feed/",
+      "siteUrl": "https://little-beans.net",
       "articles": [
         {
-          "id": "https://css-tricks.com/?p=364385",
-          "author": "Shimin Zhang",
-          "description": "I’m a big fan of movies by J.J. Abrams. I enjoy their tight plots, quippy dialog, and of course: anamorphic lens flares. Filmmakers like Abrams use lens flare to add a dash of ‘homemade’ realism to their movies, …\nAdd a CSS Lens Flare to Photos for a Bright Touch originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/add-a-css-lens-flare-to-photos-for-a-bright-touch/",
-          "publishedOn": "2022-04-12T17:10:13.000Z",
-          "wordCount": 1552,
-          "title": "Add a CSS Lens Flare to Photos for a Bright Touch",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364385"
+          "id": "https://little-beans.net/?p=83028",
+          "author": "こまめブログ",
+          "description": "HP公式サイトにて、ゲーミングPCのフラグシップモデル「OMEN 45L Desktop」がクーポン利用で10%オフ！　最大4万3780円引きで購入できます。クーポンの有効期間は4/24（日）まで。高額な高性能ゲーミング……",
+          "link": "https://little-beans.net/bargain/omen20220418/",
+          "publishedOn": "2022-04-18T07:43:34.000Z",
+          "wordCount": 547,
+          "title": "Core i9-12900K+RTX3090が4.3万円オフの39万円台！ OMEN 45Lがクーポン利用で10%オフ",
+          "imageUrl": "https://little-beans.net/wp-content/uploads/2022/04/OMEN45L-1.jpg"
         },
         {
-          "id": "https://css-tricks.com/?p=364166",
-          "author": "Adam Rackis",
-          "description": "Content delivery networks, or CDNs, allow you to improve the delivery of your website’s static resources, most notably, with CDN caching. They do this by serving your content from edge locations, which are located all over the world. When a …\nAdding CDN Caching to a Vite Build originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/adding-cdn-caching-to-a-vite-build/",
-          "publishedOn": "2022-04-04T18:25:23.000Z",
-          "wordCount": 1333,
-          "title": "Adding CDN Caching to a Vite Build",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364166"
+          "id": "https://little-beans.net/?p=83024",
+          "author": "こまめブログ",
+          "description": "HP直販サイトで販売されている「HP 15s-eq」Ryzen 3モデルが値下げされました。4月上旬は5万2000円でしたが、現在は4万9000円で販売されています。普段使いや軽めのビジネス作業、学習用には十分な性能で、……",
+          "link": "https://little-beans.net/bargain/hp15s-20220418/",
+          "publishedOn": "2022-04-18T03:43:35.000Z",
+          "wordCount": 605,
+          "title": "Ryzen 3 5300U+8GBメモリーで4万9000円！ 5万円以下のPCならHP 15s-eqがおすすめ",
+          "imageUrl": "https://little-beans.net/wp-content/uploads/2022/02/hp-15s-eq2000.jpg"
         },
         {
-          "id": "https://css-tricks.com/?p=364279",
-          "author": "Temani Afif",
-          "description": "We recently covered creating fancy borders with CSS mask properties, and now we are going to cut the corners with CSS mask and clip-path! A lot of techniques exist to cut different shapes from the corners of any element. …\nTricks to Cut Corners Using CSS Mask and Clip-Path Properties originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/cut-corners-using-css-mask-and-clip-path-properties/",
-          "publishedOn": "2022-03-30T16:35:08.000Z",
-          "wordCount": 3554,
-          "title": "Tricks to Cut Corners Using CSS Mask and Clip-Path Properties",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364279"
+          "id": "https://little-beans.net/?p=82993",
+          "author": "こまめブログ",
+          "description": "軽量＆高性能な13.3インチノートPC「HP Pavilion Aero 13-be」が、HP公式サイトで激安価格で販売されています。Zen3世代のRyzen 5000シリーズ搭載で、最安モデルは7万9000円から。重量……",
+          "link": "https://little-beans.net/bargain/aero13-20220417/",
+          "publishedOn": "2022-04-17T04:52:28.000Z",
+          "wordCount": 654,
+          "title": "957gのZen3高性能モバイルノートPCが7万9000円から！ HP Pavilion Aero 13が激安",
+          "imageUrl": "https://little-beans.net/wp-content/uploads/2022/04/aero13-pink.jpg"
         },
         {
-          "id": "https://css-tricks.com/?p=364118",
-          "author": "Daniel Schwarz",
-          "description": "A bookmarklet is a JavaScript-based bookmark that adds to a web browser. I’d like to show you some awesome web browser hacks to aid your web development workflow and how to convert those hacks into time-saving bookmarklets.\nActivating design mode\n…\n6 Useful Bookmarklets to Boost Web Development originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/web-development-bookmarklets/",
-          "publishedOn": "2022-03-28T18:15:41.000Z",
-          "wordCount": 2508,
-          "title": "6 Useful Bookmarklets to Boost Web Development",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/364118"
+          "id": "https://little-beans.net/?p=82990",
+          "author": "こまめブログ",
+          "description": "4/19（火）まで、楽天リーベイツを経由したレノボのポイント還元率が20%にアップしています。たとえば10万円のPCなら2万円ぶんのポイントをもらえるので、実質価格は8万円。非常にお買い得です。 リンク キャンペーン詳細……",
+          "link": "https://little-beans.net/bargain/rebates20220417-desktop/",
+          "publishedOn": "2022-04-17T04:13:55.000Z",
+          "wordCount": 729,
+          "title": "Core i7-12700搭載で実質6万1336円！ リーベイツ20%還元でレノボのデスクトップPCが激安",
+          "imageUrl": "https://little-beans.net/wp-content/uploads/2022/02/thinkcentre-neo-50t.jpg"
         },
         {
-          "id": "https://css-tricks.com/?p=363745",
-          "author": "Jens Oliver Meiert",
-          "description": "You may not use XHTML (anymore), but when you write HTML, you may be more influenced by XHTML than you think. You are very likely writing HTML, the XHTML way.\nWhat is the XHTML way of writing HTML, and what …\nWrite HTML, the HTML Way (Not the XHTML Way) originally published on CSS-Tricks. You should get the newsletter.",
-          "link": "https://css-tricks.com/write-html-the-html-way-not-the-xhtml-way/",
-          "publishedOn": "2022-03-21T20:08:38.000Z",
-          "wordCount": 3275,
-          "title": "Write HTML, the HTML Way (Not the XHTML Way)",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/363745"
+          "id": "https://little-beans.net/?p=82977",
+          "author": "こまめブログ",
+          "description": "レノボの公式サイトにて、ThinkPad Eシリーズの新モデル「ThinkPad E14 Gen4(AMD)」および「ThinkPad E15 Gen4(AMD)」の販売が開始されました。外観は前モデルと変わりませんが、……",
+          "link": "https://little-beans.net/bargain/rebates20220416-thinkpad-e/",
+          "publishedOn": "2022-04-17T03:19:16.000Z",
+          "wordCount": 630,
+          "title": "Zen3搭載ThinkPad E14/15 Gen4登場！ リーベイツの20%還元で最新モデルがいきなりお得",
+          "imageUrl": "https://little-beans.net/wp-content/uploads/2022/04/thinkpad-e.jpg"
+        },
+        {
+          "id": "https://little-beans.net/?p=82969",
+          "author": "こまめブログ",
+          "description": "サンスター文具のメタルペンシル「metacil（メタシル）」が、ヨドバシドットコムで予約販売を受け付け中です。   ヨドバシドットコムでメタシルを検索   メタシルは3月中旬に発表され瞬時に予約が終了……",
+          "link": "https://little-beans.net/news/metacil20220416/",
+          "publishedOn": "2022-04-16T11:33:57.000Z",
+          "wordCount": 449,
+          "title": "金属鉛筆「メタシル」がヨドバシで予約再開（発売は6月末に延期）",
+          "imageUrl": "https://little-beans.net/wp-content/uploads/2022/04/metacil.jpg"
+        },
+        {
+          "id": "https://little-beans.net/?p=82955",
+          "author": "こまめブログ",
+          "description": "HPのゲーミングノートPC「OMEN by HP Laptop 16-c0000（以下、”OMEN16″）」が、激安価格で販売されています。価格はRX 6600M搭載のミドルレンジモデルが12万9……",
+          "link": "https://little-beans.net/bargain/omen20220416/",
+          "publishedOn": "2022-04-16T06:05:25.000Z",
+          "wordCount": 576,
+          "title": "RTX 3070ゲーミングノートPCが13万9407円！ OMEN16が超激安販売中",
+          "imageUrl": "https://little-beans.net/wp-content/uploads/2022/04/OMEN16-eyecatch.jpg"
+        },
+        {
+          "id": "https://little-beans.net/?p=82953",
+          "author": "こまめブログ",
+          "description": "セールは終了 この記事で紹介しているセールはすでに終了しました。最新のセール情報は当サイトのツイッターアカウントでお知らせしています。 ツイッターでこまめブログをフォローする HPの「HP Chromebook 14a（……",
+          "link": "https://little-beans.net/bargain/hp-weekend20220416-cb/",
+          "publishedOn": "2022-04-16T04:54:57.000Z",
+          "wordCount": 544,
+          "title": "14インチフルHDのChromebookが2万9800円で激安販売中！",
+          "imageUrl": "https://little-beans.net/wp-content/uploads/2022/02/HP-CB-14a-AMD-eyecatch.jpg"
+        },
+        {
+          "id": "https://little-beans.net/?p=82951",
+          "author": "こまめブログ",
+          "description": "楽天リーベイツを経由したレノボのポイント還元率が20%にアップ中です。期間は4/19（火）まで。もらったポイントは1ポイント=1円として使えるので、実質的には20%オフと同じ。レノボ製品をいつもよりお得に入手できます。 ……",
+          "link": "https://little-beans.net/bargain/rebates20220416-kb/",
+          "publishedOn": "2022-04-16T04:03:42.000Z",
+          "wordCount": 520,
+          "title": "ThinkPadトラックポイントキーボード IIが1万0304円！ リーベイツ20%ポイント還元で”赤ポチ”ワイヤレスキーボードがお得",
+          "imageUrl": "https://little-beans.net/wp-content/uploads/2022/03/ThinkPad-Trackpoint-keyboardII.jpg"
+        },
+        {
+          "id": "https://little-beans.net/?p=82944",
+          "author": "こまめブログ",
+          "description": "楽天リーベイツを経由したレノボのポイント還元率が20%にアップしています。期間は4/19（火）まで。もらったポイントは1ポイント=1円として使えるので、実質的には20%オフと同じ。高性能なノートPCを、驚くほどお得に購入……",
+          "link": "https://little-beans.net/bargain/rebates20220416-thinkbook/",
+          "publishedOn": "2022-04-16T02:57:48.000Z",
+          "wordCount": 809,
+          "title": "Ryzen 5 5500U搭載で実質4万7960円から！ リーベイツの20%還元でThinkBookが激安",
+          "imageUrl": "https://little-beans.net/wp-content/uploads/2022/03/thinkbook14-gen3-eyecatch02.jpg"
         }
       ]
     },
     {
-      "title": "Articles on Smashing Magazine — For Web Designers And Developers",
-      "feedUrl": "https://www.smashingmagazine.com/feed/",
-      "siteUrl": "https://www.smashingmagazine.com/",
+      "title": "デイリーガジェット",
+      "feedUrl": "https://daily-gadget.net/feed/",
+      "siteUrl": "https://daily-gadget.net",
       "articles": [
         {
-          "id": "https://smashingmagazine.com/2022/04/use-storytelling-ux/",
-          "author": "hello@smashingmagazine.com (Marli Mesibov)",
-          "description": "Storytelling is a powerful tool for any UX designer. It helps create a product and understand the people who use it. In this article, Marli Mesibov takes a real-life example of an app she helped to build in 2017 and explains five steps you can use to help you build a story into your user experience.",
-          "link": "https://smashingmagazine.com/2022/04/use-storytelling-ux/",
-          "publishedOn": "2022-04-15T14:00:00.000Z",
-          "wordCount": 3761,
-          "title": "How To Use Storytelling In UX",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fedf0602-27ae-4516-bcd0-df371fd0048b/use-storytelling-ux.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/fedf0602-27ae-4516-bcd0-df371fd0048b/use-storytelling-ux.jpg"
+          "id": "https://daily-gadget.net/?p=44311",
+          "author": "デイリーガジェット編集部",
+          "description": "Celeron N5100を搭載した新型の10.1インチWindowsタブレットPC「DERE DBOOK 10」が登場しました。 キーボー...",
+          "link": "https://daily-gadget.net/2022/04/18/post-44311/",
+          "publishedOn": "2022-04-18T01:30:53.000Z",
+          "wordCount": 294,
+          "title": "Celeron N5100搭載5万円台Surface風10型2in1登場！【DERE DBOOK 10】",
+          "imageUrl": "https://i0.wp.com/daily-gadget.net/wp-content/uploads/2022/04/スクリーンショット-2022-04-17-024150.jpg?fit=1000%2C967&ssl=1"
         },
         {
-          "id": "https://smashingmagazine.com/2022/04/upwork-freelancers-organization/",
-          "author": "hello@smashingmagazine.com (Paul Boag)",
-          "description": "Whether you work in-house or run a digital agency, there are occasions when you will consider hiring freelancers to supplement your team. Today, we’ll take a look into a platform known as [Upwork](https://upwork.pxf.io/c/1221738/1245573/13634) and the best ways in finding the the right freelancers as well as integrating them into your team.",
-          "link": "https://smashingmagazine.com/2022/04/upwork-freelancers-organization/",
-          "publishedOn": "2022-04-14T11:00:00.000Z",
-          "wordCount": 2445,
-          "title": "When And How To Use Freelancers In Your Organization",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cb70d8d4-8f9b-449e-86a7-1da3045fea9f/upwork-freelancers-organization.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/cb70d8d4-8f9b-449e-86a7-1da3045fea9f/upwork-freelancers-organization.jpg"
+          "id": "https://daily-gadget.net/?p=44308",
+          "author": "デイリーガジェット編集部",
+          "description": "2022年は、大手メーカーやブランドからのスマートウォッチ投入が増えそうです。 （写真はXiaomi Watch S1） まずはGoogle...",
+          "link": "https://daily-gadget.net/2022/04/18/post-44308/",
+          "publishedOn": "2022-04-17T23:30:56.000Z",
+          "wordCount": 225,
+          "title": "今後GoogleやPOCOから新たにスマートウォッチ登場へ",
+          "imageUrl": "https://i0.wp.com/daily-gadget.net/wp-content/uploads/2022/04/スクリーンショット-2022-04-17-123622.jpg?fit=785%2C907&ssl=1"
         },
         {
-          "id": "https://smashingmagazine.com/2022/04/designing-better-carousel-ux/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Carousels don’t have a good reputation, and rightfully so. But we can make them more useful. **Best practices and guidelines** to improve the carousel design with honest scrolling direction, labels, thumbnails and grouped prev/next-buttons.",
-          "link": "https://smashingmagazine.com/2022/04/designing-better-carousel-ux/",
-          "publishedOn": "2022-04-13T12:00:00.000Z",
-          "wordCount": 7262,
-          "title": "Designing A Better Carousel UX",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/729433dc-4cea-4eed-9128-0e9e6dbfe6db/designing-better-carousel-ux.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/729433dc-4cea-4eed-9128-0e9e6dbfe6db/designing-better-carousel-ux.jpg"
+          "id": "https://daily-gadget.net/?p=44349",
+          "author": "デイリーガジェット編集部",
+          "description": "今回は、Teclastから登場した新型の13.3インチモバイルノートパソコン「Teclast F6 Air Laptop」をレビューしていき...",
+          "link": "https://daily-gadget.net/2022/04/18/post-44349/",
+          "publishedOn": "2022-04-17T21:00:33.000Z",
+          "wordCount": 845,
+          "title": "4万円台の2in1モバイルノート「Teclast F6 Air Laptop」レビュー！",
+          "imageUrl": "https://i0.wp.com/daily-gadget.net/wp-content/uploads/2022/04/20220417_021112.jpg?fit=1000%2C895&ssl=1"
         },
         {
-          "id": "https://smashingmagazine.com/2022/04/artifacts-design-systems/",
-          "author": "hello@smashingmagazine.com (Dan Donald)",
-          "description": "Like many things, a design system isn’t ever a finished thing — it’s a journey. How we go about that journey can affect the things we produce along the way. Before diving in and starting to plan anything out, be clear about where the benefits and the risks might lie.",
-          "link": "https://smashingmagazine.com/2022/04/artifacts-design-systems/",
-          "publishedOn": "2022-04-12T12:00:00.000Z",
-          "wordCount": 4133,
-          "title": "Around The Artifacts Of Design Systems (Case Study)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/170611c4-1cfa-4f09-8ba0-2999839a2679/artifacts-design-systems.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/170611c4-1cfa-4f09-8ba0-2999839a2679/artifacts-design-systems.jpg"
+          "id": "https://daily-gadget.net/?p=44312",
+          "author": "デイリーガジェット編集部",
+          "description": "イオシス各店とオンラインストアでは、2022年3月（つまり先月）発売になったシャオミのRedmi Note 11のSIMフリー未使用品が、税...",
+          "link": "https://daily-gadget.net/2022/04/17/post-44312/",
+          "publishedOn": "2022-04-17T02:50:58.000Z",
+          "wordCount": 410,
+          "title": "シャオミRedmi Note11 SIMフリー未使用品が17,800円で販売中！",
+          "imageUrl": "https://i0.wp.com/daily-gadget.net/wp-content/uploads/2022/04/スクリーンショット-2022-04-17-024239.png?fit=467%2C455&ssl=1"
         },
         {
-          "id": "https://smashingmagazine.com/2022/04/boost-resource-loading-new-priority-hint-fetchpriority/",
-          "author": "hello@smashingmagazine.com (Adrian Bece)",
-          "description": "This new attribute will enable us to fine-tune relative resource priority, improve LCP performance, deprioritize JavaScript fetch calls, and much more. Let’s check out fetchpriority and explore some potential use cases.",
-          "link": "https://smashingmagazine.com/2022/04/boost-resource-loading-new-priority-hint-fetchpriority/",
-          "publishedOn": "2022-04-11T09:30:00.000Z",
-          "wordCount": 2315,
-          "title": "Boost Resource Loading With fetchpriority, a New Priority Hint",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/619a484f-276c-46b3-9f4e-ce788aef7fef/boost-resource-loading-new-priority-hint-fetchpriority.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/619a484f-276c-46b3-9f4e-ce788aef7fef/boost-resource-loading-new-priority-hint-fetchpriority.jpg"
+          "id": "https://daily-gadget.net/?p=44320",
+          "author": "デイリーガジェット編集部",
+          "description": "AMD Ryzen 7 5800Uを搭載した、ハイスペックな小型Windowsハンドヘルドゲーミング機「ONEXPLAYER mini」が予...",
+          "link": "https://daily-gadget.net/2022/04/17/post-44320/",
+          "publishedOn": "2022-04-17T02:22:53.000Z",
+          "wordCount": 230,
+          "title": "Ryzen7 5800U搭載ONEXPLAYER miniが117,680円！【7インチゲーミングPC】",
+          "imageUrl": "https://i0.wp.com/daily-gadget.net/wp-content/uploads/2022/04/スクリーンショット-2022-04-17-024108.jpg?fit=1000%2C773&ssl=1"
         },
         {
-          "id": "https://smashingmagazine.com/2022/04/dynamic-data-fetching-authenticated-nextjs-app/",
-          "author": "hello@smashingmagazine.com (Caleb Olojo)",
-          "description": "Data is among the most important things that make up a web application or a conventional native app. We need data to be able to see and perhaps understand the purpose of an application. In this article, we’ll look at another approach to obtaining data in an application that requires authentication or authorization using Next.js.",
-          "link": "https://smashingmagazine.com/2022/04/dynamic-data-fetching-authenticated-nextjs-app/",
-          "publishedOn": "2022-04-08T12:00:00.000Z",
-          "wordCount": 1942,
-          "title": "Dynamic Data-Fetching In An Authenticated Next.js App",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/929fd32f-838d-44e8-88f1-2392555f6c44/dynamic-data-fetching-authenticated-nextjs-app.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/929fd32f-838d-44e8-88f1-2392555f6c44/dynamic-data-fetching-authenticated-nextjs-app.jpg"
+          "id": "https://daily-gadget.net/?p=44309",
+          "author": "デイリーガジェット編集部",
+          "description": "先日中国で発売されたレノボの8.8インチ片手サイズタブレット「Lenovo Legion Y700」が、中国以外でも購入可能になりました。 ...",
+          "link": "https://daily-gadget.net/2022/04/17/post-44309/",
+          "publishedOn": "2022-04-16T23:00:12.000Z",
+          "wordCount": 229,
+          "title": "レノボの8.8インチ小型タブ「Legion Y700」レノボ公式から購入可能に",
+          "imageUrl": "https://i0.wp.com/daily-gadget.net/wp-content/uploads/2022/04/スクリーンショット-2022-04-17-030642.jpg?fit=915%2C843&ssl=1"
         },
         {
-          "id": "https://smashingmagazine.com/2022/04/designing-better-breadcrumbs/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "In this series of articles, we highlight design patterns and techniques to design better interfaces. You can also find more examples in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.",
-          "link": "https://smashingmagazine.com/2022/04/designing-better-breadcrumbs/",
-          "publishedOn": "2022-04-06T14:20:00.000Z",
-          "wordCount": 6901,
-          "title": "Designing Better Breadcrumbs",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/83a5c72a-37d0-4c2c-9ce8-1ebc22b913f3/designing-better-breadcrumbs-navigation.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/83a5c72a-37d0-4c2c-9ce8-1ebc22b913f3/designing-better-breadcrumbs-navigation.jpg"
+          "id": "https://daily-gadget.net/?p=44313",
+          "author": "デイリーガジェット編集部",
+          "description": "イオシス各店とオンラインストアでは、マイクロソフトの人気2-in-1パソコン「Surface Pro 4」の中古品が、税込21,800円～で...",
+          "link": "https://daily-gadget.net/2022/04/17/post-44313/",
+          "publishedOn": "2022-04-16T21:00:07.000Z",
+          "wordCount": 314,
+          "title": "ペンとタイプカバー付きSurface Pro4中古が21,800円で販売中！",
+          "imageUrl": "https://i0.wp.com/daily-gadget.net/wp-content/uploads/2022/04/スクリーンショット-2022-04-17-023834.png?fit=447%2C407&ssl=1"
         },
         {
-          "id": "https://smashingmagazine.com/2022/04/devs-for-ukraine/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "[Devs For Ukraine](https://www.devsforukraine.io/) is a free online charity conference organized by the lovely people at Remote. Two days filled with talks from engineering leaders around the globe, in support of Ukraine. April 25–26.",
-          "link": "https://smashingmagazine.com/2022/04/devs-for-ukraine/",
-          "publishedOn": "2022-04-06T11:00:00.000Z",
-          "wordCount": 448,
-          "title": "Devs For Ukraine, A Free Online Charity Conference 🇺🇦",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/591a294a-c48b-437b-abe5-98cf7416edad/devs-for-ukraine-large-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/591a294a-c48b-437b-abe5-98cf7416edad/devs-for-ukraine-large-opt.png"
+          "id": "https://daily-gadget.net/?p=44300",
+          "author": "デイリーガジェット編集部",
+          "description": "秋葉原の東京ラヂオデパートにあるCCコネクトでは、週末セールを開始。 目玉は2つで、中古Galaxy S20+（ドコモ版SIMロック解除済み...",
+          "link": "https://daily-gadget.net/2022/04/16/post-44300/",
+          "publishedOn": "2022-04-16T06:00:53.000Z",
+          "wordCount": 314,
+          "title": "中古レッツSZ5が19,800円！Galaxy S20+は48,800円【CCコネクト】",
+          "imageUrl": "https://i0.wp.com/daily-gadget.net/wp-content/uploads/2022/04/スクリーンショット-2022-04-16-144411.jpg?fit=1000%2C620&ssl=1"
         },
         {
-          "id": "https://smashingmagazine.com/2022/04/stakeholders-overcoming-obstacles/",
-          "author": "hello@smashingmagazine.com (Paul Boag)",
-          "description": "Whether you work in-house or for an external agency, we all share one challenge — dealing with stakeholders, be they your boss, colleagues, or clients. In this post, veteran web designer Paul Boag shares his approach to getting things done in even the most challenging organizations.",
-          "link": "https://smashingmagazine.com/2022/04/stakeholders-overcoming-obstacles/",
-          "publishedOn": "2022-04-05T13:00:00.000Z",
-          "wordCount": 2421,
-          "title": "How To Get Work Done: Wrangling Stakeholders And Overcoming Obstacles",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/29128d44-8712-417e-8bca-ba367e4fd283/stakeholders-overcoming-obstacles.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/29128d44-8712-417e-8bca-ba367e4fd283/stakeholders-overcoming-obstacles.jpg"
+          "id": "https://daily-gadget.net/?p=44265",
+          "author": "デイリーガジェット編集部",
+          "description": "秋葉原にある中古PC販売店のPCコンフル4店舗（本店、2号店、3号店、4号店）では、週末の特価販売をスタート！ 今週は2号店の3周年記念協賛...",
+          "link": "https://daily-gadget.net/2022/04/16/post-44265/",
+          "publishedOn": "2022-04-16T05:45:56.000Z",
+          "wordCount": 1121,
+          "title": "秋葉原で極小レッツノートRZ5が8GBで34,800円！【PCコンフル週末特価品全まとめ】",
+          "imageUrl": "https://i0.wp.com/daily-gadget.net/wp-content/uploads/2022/04/20220416_114809.jpg?fit=1000%2C750&ssl=1"
         },
         {
-          "id": "https://smashingmagazine.com/2022/04/accessible-filterable-paginated-list-11ty-alpinejs/",
-          "author": "hello@smashingmagazine.com (Manuel Matuzović)",
-          "description": "Ever wondered how to build a paginated list that works with and without JavaScript? In this article, Manuel explains how you can leverage the power of Progressive Enhancement and do just that with Eleventy and Alpine.js.",
-          "link": "https://smashingmagazine.com/2022/04/accessible-filterable-paginated-list-11ty-alpinejs/",
-          "publishedOn": "2022-04-04T10:00:00.000Z",
-          "wordCount": 4559,
-          "title": "How To Build A Progressively Enhanced, Accessible, Filterable And Paginated List",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/247c8c69-4797-4922-9c3b-75cfa3362051/accessible-filterable-paginated-list-11ty-alpinejs.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/247c8c69-4797-4922-9c3b-75cfa3362051/accessible-filterable-paginated-list-11ty-alpinejs.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/04/next-js-middleware-feature/",
-          "author": "hello@smashingmagazine.com (Sam Poder)",
-          "description": "Next.js’ recent 12.0 release included a new beta feature: middleware. For a detailed explanation, you can read all about it in Sam’s previous article, “[Next.js Wildcard Subdomains](https://www.smashingmagazine.com/2021/11/nextjs-wildcard-subdomains/)”. This article, on the other hand, dives into the overall concept of middleware and how handy it can be in building things.",
-          "link": "https://smashingmagazine.com/2022/04/next-js-middleware-feature/",
-          "publishedOn": "2022-04-01T10:30:00.000Z",
-          "wordCount": 1946,
-          "title": "The What, When, Why And How Of Next.js’ New Middleware Feature",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b614fa99-6432-4f8f-bb7a-234b9e0c082e/next-js-middleware-feature.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/b614fa99-6432-4f8f-bb7a-234b9e0c082e/next-js-middleware-feature.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/03/desktop-wallpaper-calendars-april-2022/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Let’s welcome the new month with some new wallpapers. Designed with love by artists and designers from across the globe, they are available in versions with and without a calendar for April 2022.",
-          "link": "https://smashingmagazine.com/2022/03/desktop-wallpaper-calendars-april-2022/",
-          "publishedOn": "2022-03-31T08:00:00.000Z",
-          "wordCount": 1982,
-          "title": "A Time For Reflection (April 2022 Desktop Wallpapers Edition)",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c5a643aa-d809-46c8-a329-689e866dc160/apr-22-blue-and-yellow-preview-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/c5a643aa-d809-46c8-a329-689e866dc160/apr-22-blue-and-yellow-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/03/designing-better-infinite-scroll/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "Best practices and guidelines to improve the UX of infinite scroll with bookmarks, footer reveal and pagination.",
-          "link": "https://smashingmagazine.com/2022/03/designing-better-infinite-scroll/",
-          "publishedOn": "2022-03-30T13:30:00.000Z",
-          "wordCount": 2924,
-          "title": "Designing A Better Infinite Scroll",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/41704a7b-0bd6-4144-b13e-2b092a0ea3e1/designing-better-infinite-scroll.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/41704a7b-0bd6-4144-b13e-2b092a0ea3e1/designing-better-infinite-scroll.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/03/smashingconf-workshops-conferences-2022/",
-          "author": "hello@smashingmagazine.com (Jarijn Nijkamp)",
-          "description": "After two years when almost everything moved online, 2022 marks the return of in-person conferences. In fact, [SmashingConf is back](https://smashingconf.com/conferences): coming to  San Francisco and Austin in June, Freiburg (Germany) in September, and New York in October.",
-          "link": "https://smashingmagazine.com/2022/03/smashingconf-workshops-conferences-2022/",
-          "publishedOn": "2022-03-29T14:30:00.000Z",
-          "wordCount": 800,
-          "title": "SmashingConf Is Back In 2022",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3ccd449a-af31-4cb1-a417-827ca64c2f30/smashingconfs-back-2022.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/3ccd449a-af31-4cb1-a417-827ca64c2f30/smashingconfs-back-2022.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/03/jobs-designers-developers-war-ukraine/",
-          "author": "hello@smashingmagazine.com (Cosima Mielke)",
-          "description": "Are you a designer or developer affected by the war in Ukraine? Here are some options to consider if you’re looking for a design or tech job.",
-          "link": "https://smashingmagazine.com/2022/03/jobs-designers-developers-war-ukraine/",
-          "publishedOn": "2022-03-29T11:00:00.000Z",
-          "wordCount": 923,
-          "title": "Jobs For Designers And Developers Affected By The War In Ukraine 🇺🇦",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/09918dee-32d3-430b-9824-f481a5cda385/jobs-ukrainian-refugees.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/09918dee-32d3-430b-9824-f481a5cda385/jobs-ukrainian-refugees.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/03/guide-hover-pointer-media-queries/",
-          "author": "hello@smashingmagazine.com (Cristian Díaz)",
-          "description": "In this article, we’ll talk about how to adapt our sites to the different scenarios of a device pointer: whether it has a pointer or not, or how accurate it is. To adapt our site to those devices’ needs we’ll talk about how to properly use media queries `hover`, `pointer`, `any-hover` and `any-pointer`.",
-          "link": "https://smashingmagazine.com/2022/03/guide-hover-pointer-media-queries/",
-          "publishedOn": "2022-03-28T17:00:00.000Z",
-          "wordCount": 4095,
-          "title": "A Guide To Hover And Pointer Media Queries",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e8282b7e-20d8-481e-8bd8-0261fd9c1cc0/guide-hover-pointer-media-queries.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e8282b7e-20d8-481e-8bd8-0261fd9c1cc0/guide-hover-pointer-media-queries.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/03/remix-routes-demystified/",
-          "author": "hello@smashingmagazine.com (Átila Fassina)",
-          "description": "In the past months, there have been lots of talks dedictaed to Remix. Routing is not only one of the things that sets it apart from other frameworks, but it also fuels great performance and improves the overall experience for developers. Let’s dig in to all  of the features that build up routing in this powerful framework.",
-          "link": "https://smashingmagazine.com/2022/03/remix-routes-demystified/",
-          "publishedOn": "2022-03-25T14:00:00.000Z",
-          "wordCount": 2847,
-          "title": "Remix Routes Demystified",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e1a0f7a2-9511-4911-9e94-5a4368b69c07/remix-routes-demystified.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/e1a0f7a2-9511-4911-9e94-5a4368b69c07/remix-routes-demystified.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/03/html-attributes-you-never-use/",
-          "author": "hello@smashingmagazine.com (Louis Lazaris)",
-          "description": "In this article, Louis Lazaris describes and demonstrates some interesting HTML attributes that you may or may not have heard of and perhaps find useful enough to personally use in one of your projects.",
-          "link": "https://smashingmagazine.com/2022/03/html-attributes-you-never-use/",
-          "publishedOn": "2022-03-23T14:30:00.000Z",
-          "wordCount": 2813,
-          "title": "Those HTML Attributes You Never Use",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d94128cd-ff71-4c9a-8608-fc9c75fbea84/html-attributes-you-never-use.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/d94128cd-ff71-4c9a-8608-fc9c75fbea84/html-attributes-you-never-use.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/03/design-is-all-about-good-timing/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "In this shorter series of articles, we highlight design patterns, techniques, and strategies to design better digital interfaces. You can also learn much more in [“Smart Interface Design Patterns”](https://smart-interface-design-patterns.com/), a 6h-video course with 100s of hand-picked examples, curated by Vitaly.",
-          "link": "https://smashingmagazine.com/2022/03/design-is-all-about-good-timing/",
-          "publishedOn": "2022-03-22T12:45:00.000Z",
-          "wordCount": 1273,
-          "title": "Good Design Is All About Good Timing",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/60369f5b-1fb5-4426-805e-50a21628b7cd/design-good-timing.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/60369f5b-1fb5-4426-805e-50a21628b7cd/design-good-timing.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2022/03/windows-high-contrast-colors-mode-css-custom-properties/",
-          "author": "hello@smashingmagazine.com (Eric Bailey)",
-          "description": "CSS Custom Properties can be used for far more than just color, and their values update in realtime, both via display mode updates and JavaScript logic. This is powerful stuff. Eric explains how modern CSS is a powerful piece of assistive technology that can thread into it to create flexible, maintainable and adaptive digital experiences.",
-          "link": "https://smashingmagazine.com/2022/03/windows-high-contrast-colors-mode-css-custom-properties/",
-          "publishedOn": "2022-03-21T12:30:00.000Z",
-          "wordCount": 2456,
-          "title": "Windows High Contrast Mode, Forced Colors Mode And CSS Custom Properties",
-          "enclosure": {
-            "url": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bbb1649b-2b93-4626-851d-5178033d0894/windows-high-contrast-colors-mode-css-custom-properties.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bbb1649b-2b93-4626-851d-5178033d0894/windows-high-contrast-colors-mode-css-custom-properties.jpg"
-        }
-      ]
-    },
-    {
-      "title": "freeCodeCamp.org",
-      "feedUrl": "https://www.freecodecamp.org/news/rss/",
-      "siteUrl": "https://www.freecodecamp.org/news/",
-      "articles": [
-        {
-          "id": "62585158ac55f60686c34d0a",
-          "author": "Md. Fahim Bin Amin",
-          "description": "If you use a Windows operating system, then you might have gotten this error before when trying to delete a file or folder.  It happens when, even though the file or folder is there, Windows says that it is failing to delete it because it can't find that file/folder",
-          "link": "https://www.freecodecamp.org/news/how-to-solve-item-not-found-windows-error-deleting-file-folder/",
-          "publishedOn": "2022-04-15T18:32:06.000Z",
-          "wordCount": 1014,
-          "title": "How to Fix the \"Item Not Found\" Windows Error When Deleting a File or Folder",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/Email_woman1.jpg"
-        },
-        {
-          "id": "624e81ffac55f60686c2f0bd",
-          "author": "Piotr Wolak",
-          "description": "Hello, everyone. In this step-by-step tutorial, I would like to show you how to deploy a Kotlin Microservice using Docker and AWS App Runner.  Together, we will learn:  * what exactly is AWS App Runner?   * how to configure AWS Command Line Interface on your local",
-          "link": "https://www.freecodecamp.org/news/kotlin-aws-app-runner/",
-          "publishedOn": "2022-04-15T06:34:00.000Z",
-          "wordCount": 2416,
-          "title": "How to Deploy a Kotlin Microservice to AWS with App Runner",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/kotlin-aws-app-runner.png"
-        },
-        {
-          "id": "625807d4ac55f60686c348c2",
-          "author": "Kolade Chris",
-          "description": "The Inspect Element feature of the Google Chrome browser is a powerful yet easy-to-use tool. It’s an important part of Chrome Developer Tools that you can use to check the source code of any website. But it doesn’t end there. You can take things further by changing the elements and",
-          "link": "https://www.freecodecamp.org/news/how-to-inspect-an-element-chrome-shortcut/",
-          "publishedOn": "2022-04-15T01:40:32.000Z",
-          "wordCount": 1107,
-          "title": "How to Inspect an Element – Chrome Shortcut",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/inspect-element.png"
-        },
-        {
-          "id": "6208aaaf56125b0677c64aaa",
-          "author": "Rutvik Tak",
-          "description": "When you're developing an app, you'll have to decide how you want to load data. And this will typically bring up the issue of infinite pagination.  You likely won't be showing all of the available items in your DB to your users. You may fetch the first 10-20 items",
-          "link": "https://www.freecodecamp.org/news/infinite-pagination-in-flutter-with-riverpod/",
-          "publishedOn": "2022-04-14T23:46:42.000Z",
-          "wordCount": 2634,
-          "title": "Infinite Pagination in Flutter with Firebase, Riverpod, and Freeze",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/03/Firebase-Security-Rules-Introduction--1-.png"
-        },
-        {
-          "id": "62549e60ac55f60686c32496",
-          "author": "Marco Venturi",
-          "description": "CI/CD has changed the way IT teams release new software versions.  In this tutorial I'll share my experience with Azure Static Web Apps – Azure's PaaS solution. I'll show you how you can take advantage of its flexibility to deploy an Angular App just by pushing your code to",
-          "link": "https://www.freecodecamp.org/news/how-to-use-azure-static-web-apps-to-deploy-angular-app/",
-          "publishedOn": "2022-04-14T23:42:23.000Z",
-          "wordCount": 1461,
-          "title": "How to Use Azure Static Web Apps to Deploy an Angular App",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/cover_2.png"
-        },
-        {
-          "id": "6257472dac55f60686c341a4",
-          "author": "Shruti Kapoor",
-          "description": "React 18 was released in March 2022. This release focuses on performance improvements and updating the rendering engine.  React 18 sets the foundation for concurrent rendering APIs that future React features will be built on top of.  In this tutorial, I will give a quick guide of the",
-          "link": "https://www.freecodecamp.org/news/react-18-new-features/",
-          "publishedOn": "2022-04-14T21:58:00.000Z",
-          "wordCount": 1992,
-          "title": "React 18 New Features – Concurrent Rendering, Automatic Batching, and More",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/featured.jpg"
-        },
-        {
-          "id": "6257f4fcac55f60686c34755",
-          "author": "Zaira Hira",
-          "description": "Lists are one of the most useful and versatile data types available in Python. Lists are a collection of arbitrary objects, just like arrays in other programming languages. In this tutorial you will learn:  * An overview of lists and how they are defined.  * Methods to insert",
-          "link": "https://www.freecodecamp.org/news/python-list-append-how-to-add-an-item-to-a-list-in-python/",
-          "publishedOn": "2022-04-14T20:03:38.000Z",
-          "wordCount": 1639,
-          "title": "Python List .append() – How to Add an Item to a List in Python",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/python-append--1-.png"
-        },
-        {
-          "id": "62563320ac55f60686c3361f",
-          "author": "Saransh Kataria",
-          "description": "Over the past few months, I've found a new use for the pictures that I've taken while hiking. I started using them as Zoom virtual backgrounds.  If you are anything like me and take a lot of pictures, it can be hard to decide which one looks good. And",
-          "link": "https://www.freecodecamp.org/news/how-to-write-a-script-to-change-zoom-background/",
-          "publishedOn": "2022-04-14T18:05:20.000Z",
-          "wordCount": 996,
-          "title": "How to Write a Script to Change Your Zoom Background Every Day",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/zoom-background-article-image.png"
-        },
-        {
-          "id": "6256dd0eac55f60686c33b09",
-          "author": "Ihechikara Vincent Abba",
-          "description": "When you're writing, sometimes you might want to strike through certain text. This means adding a horizontal line that runs through a piece of text.  Here is what it looks like: you are an awesome person.  These are various use cases for strikethroughs:  * To indicate that",
-          "link": "https://www.freecodecamp.org/news/google-docs-strikethrough-how-to-cross-out-text-in-google-docs/",
-          "publishedOn": "2022-04-14T17:49:37.000Z",
-          "wordCount": 625,
-          "title": "Google Docs Strikethrough – How to Cross Out Text in Google Docs",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/siriwan-arunsiriwattana-gs0coXLmjdI-unsplash.jpg"
-        },
-        {
-          "id": "62496868ac55f60686c2ccbc",
-          "author": "TAPAS ADHIKARY",
-          "description": "A few months back, I was invited to talk to a group of engineering students of a renowned college in India. I was supposed to interact with them, motivate them, and finally tell them, \"What does the industry (the \"job\" world) look like?\", \"How can you get ready for it?\"",
-          "link": "https://www.freecodecamp.org/news/how-to-get-ready-for-a-job-in-tech/",
-          "publishedOn": "2022-04-14T17:05:57.000Z",
-          "wordCount": 2367,
-          "title": "How to Get Ready for a Job in Tech – Tips for Beginners",
-          "imageUrl": "https://www.freecodecamp.org/news/content/images/2022/04/1.png"
+          "id": "https://daily-gadget.net/?p=44295",
+          "author": "デイリーガジェット編集部",
+          "description": "アマゾンの↓のページで、7インチのファブレットサイズAndroid 11タブレット「PRITOM P7 PLUS」が通常から1,500円OF...",
+          "link": "https://daily-gadget.net/2022/04/16/post-44295/",
+          "publishedOn": "2022-04-16T03:23:54.000Z",
+          "wordCount": 192,
+          "title": "7インチのFullHD小型タブレットが8,498円でセール中【ファブレットサイズ】",
+          "imageUrl": "https://i0.wp.com/daily-gadget.net/wp-content/uploads/2022/04/スクリーンショット-2022-04-16-120652.jpg?fit=1000%2C1028&ssl=1"
         }
       ]
     }
