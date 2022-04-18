@@ -1,10 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>urn:2022-04-18T09:47:26.357Z</id>
+    <id>https://shockby.github.io/osmosfeed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2022-04-18T09:47:26.357Z</updated>
+    <updated>2022-04-18T09:49:34.816Z</updated>
     <generator>osmosfeed 1.14.4</generator>
-    <link rel="alternate" href="index.html"/>
+    <link rel="alternate" href="https://shockby.github.io/osmosfeed/index.html"/>
+    <link rel="self" href="https://shockby.github.io/osmosfeed/feed.atom"/>
     <entry>
         <title type="html"><![CDATA[Core i9-12900K+RTX3090が4.3万円オフの39万円台！ OMEN 45Lがクーポン利用で10%オフ]]></title>
         <id>https://little-beans.net/?p=83028</id>
