@@ -5,7 +5,7 @@
 
 cacheUrl: https://shockby.github.io/osmosfeed/cache.json
 sources:
-  - href: https://github.com/osmoscraft/osmosfeed/releases.atom # Get new feature announcement via this feed
+  - href: https://github.com/osmoscraft/osmosfeed/releases.atom
   - href: https://dyn.keepa.com/v2/user/rss/?feed=3tfqj6v4cptr7tm2ulcv3j6j954bol5g
   - href: https://little-beans.net/feed/
   - href: https://daily-gadget.net/feed/
